@@ -126,9 +126,9 @@ DEBUG = False
 # Database
 # https://docs.djangoproject.com/en/1.10/ref/settings/#databases
 
-ADMINS = (
-        ('bliss', 'contacto@fixter.org'),
-    )
+# ADMINS = (
+#         ('bliss', 'contacto@fixter.org'),
+#     )
 
 ALLOWED_HOSTS = ["*"]
 
